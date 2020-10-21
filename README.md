@@ -1,2 +1,2 @@
-# Synapse_HOL
+# Azure_Synapse_HOL
  
